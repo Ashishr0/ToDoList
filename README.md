@@ -24,10 +24,10 @@ This project helps users manage daily tasks efficiently with features like addin
 
 ---
 
-#Project Files
+# Project Files
 
 
-index.html
-style.css
-script.js
-README.md
+- index.html<br>
+- style.css<br>
+- script.js<br>
+- README.md
